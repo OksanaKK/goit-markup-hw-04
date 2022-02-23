@@ -166,8 +166,7 @@ fill: currentColor;
   background-repeat: no-repeat;
   background-image: linear-gradient(to right, rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
    url(../images/hero.jpg);
-   background-size: cover;
-}
+   }
 
 .hero-container {
   text-align: center;
