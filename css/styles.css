@@ -526,9 +526,14 @@ background-color: var(--accent-color);
 }
 
 .projects-list-item {
-  
+
   margin-left: 30px;
   margin-bottom: 30px; 
+  cursor: pointer;
+}
+.project-link {
+  display: block;
+  cursor: pointer; 
 }
 .project-link:hover,
 .project-link:focus {
